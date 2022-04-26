@@ -30,4 +30,16 @@ Git
  
 2. Branch
  - git branch <nama branch>
- - 
+ - git branch use <nama branch> mengganti branch
+ 
+3. Pull
+ - git pull <link https>
+ 
+4. Push
+ - git remote add <namaremote> <link https>
+ - harus di git add . 
+ - kemudian di git commit -m "<keterangan>"
+ - kemudian git branch -M Main
+ - kemudian git push -u <nama remote> main
+ 
+ 
