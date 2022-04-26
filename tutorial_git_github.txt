@@ -31,6 +31,7 @@ Git
 2. Branch
  - git branch <nama branch>
  - git branch use <nama branch> mengganti branch
+ - menghapus bracnh = git branch -d <namadosen>
  
 3. Pull
  - git pull <link https>
@@ -42,4 +43,12 @@ Git
  - kemudian git branch -M Main
  - kemudian git push -u <nama remote> main
  
+5. membuat graph log 
+ - git log --all --decorate --oneline --graph
+ - membuat alias git = git config --global alias.graph 'log --all --decorate --oneline --graph'
+ - menampilkan graphic = git graph
  
+6. Merge
+ - git merge
+ - kemudian <namabranch>
+ - 
