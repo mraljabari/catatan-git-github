@@ -50,5 +50,8 @@ Git
  
 6. Merge
  - git merge
- - kemudian <namabranch>
+ - kemudian fit merge <namabranch>
  - 
+
+7. clone
+ - git clone <link>
