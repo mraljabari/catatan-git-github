@@ -19,6 +19,8 @@ Github
 
 5. Fork
  - untuk menduplikat repo orang lain ke github kita
+ - jika menambahkan sesuatu di repo hasil fork maka bisa di pull ke repo aslitnya (yang punya repo aslinya)
+ - klik "New Pull Request" untuk pull ke repo aslinya siapa tau di merger atau di gabungkan sama yang punya nya
 
 
 Git
