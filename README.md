@@ -1,4 +1,4 @@
-# Tutorial Github Dan Git
+# Catatan Github Dan Git
 
 Catatan ini saya buat berdasasrkan pemahaman saya saja atau tepatnya catatan mungkin yang mengerti hanya saya saja dan dibuat untuk catatan jika sewaktu waktu saya lupa dasar-dasar dari Github dan Git jadi bisa buka langsung ini catatan 
 
