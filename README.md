@@ -43,19 +43,19 @@ Git
  - git status (mengecek file yang dirubah)
  
 **2. Branch**
- - git branch <nama branch>
- - git branch use <nama branch> mengganti branch
- - menghapus bracnh = git branch -d <namadosen>
+ - git branch |nama branch|
+ - git branch use |nama branch| mengganti branch
+ - menghapus bracnh = git branch -d |namadosen|
  
 **3. Pull**
- - git pull <link https>
+ - git pull |link https|
  
 **4. Push**
- - git remote add <namaremote> <link https>
+ - git remote add |namaremote| |link https|
  - harus di git add . 
- - kemudian di git commit -m "<keterangan>"
+ - kemudian di git commit -m "|keterangan|"
  - kemudian git branch -M Main
- - kemudian git push -u <nama remote> main
+ - kemudian git push -u |nama remote| main
  
 **5. membuat graph log**
  - git log --all --decorate --oneline --graph
@@ -64,9 +64,8 @@ Git
  
 **6. Merge**
  - git merge
- - kemudian fit merge <namabranch>
- - 
+ - kemudian fit merge |namabranch|
 
 **7. clone**
- - git clone <link>
+ - git clone |link|
  - menggabungkan commit dari branch kembali ke master branch nya
