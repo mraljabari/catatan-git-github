@@ -46,6 +46,8 @@ Git
  - git branch |nama branch|
  - git branch use |nama branch| mengganti branch
  - menghapus bracnh = git branch -d |namadosen|
+ - git checkout |nama branch| = untuk mengganti branch
+ - git branch -d |nama branch| = untuk menghapus branch
  
 **3. Pull**
  - git pull |link https|
@@ -64,7 +66,7 @@ Git
  
 **6. Merge**
  - git merge
- - kemudian fit merge |namabranch|
+ - kemudian git merge |namabranch|
 
 **7. clone**
  - git clone |link|
