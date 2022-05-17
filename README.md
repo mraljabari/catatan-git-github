@@ -48,6 +48,7 @@ Git
  - menghapus bracnh = git branch -d |namadosen|
  - git checkout |nama branch| = untuk mengganti branch
  - git branch -d |nama branch| = untuk menghapus branch
+ - jika ada masalah saat create branch, berarti harus commit dulu
  
 **3. Pull**
  - git pull |link https|
